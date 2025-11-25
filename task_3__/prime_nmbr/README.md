@@ -20,3 +20,4 @@ This program checks whether a given number is **prime** or not using simple iter
 
 ## 🧩 Example Output
 
+2, 3, 5, 7, 11, 13, 17, 19, 23
