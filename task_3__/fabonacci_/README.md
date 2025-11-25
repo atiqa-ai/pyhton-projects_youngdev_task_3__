@@ -19,3 +19,6 @@ This program prints the **Fibonacci series** up to a given number using simple l
 ---
 
 ## 🧩 Example Output
+fbonacci of 1st two nmbrs for n values is
+0 1 1 2 3 5 8
+
