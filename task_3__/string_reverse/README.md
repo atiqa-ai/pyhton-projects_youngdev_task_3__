@@ -19,3 +19,5 @@ This program takes a string from the user and prints the **reversed version** of
 ---
 
 ## 🧩 Example Output
+string:"python"
+Reverse string:"nohtyP"
