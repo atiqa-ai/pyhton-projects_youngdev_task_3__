@@ -17,6 +17,8 @@ I am Atiqa and I have started my 1st remote internship at @ youngdev interns and
 
 These concepts helped me building **real world example programs** like:
 
+**Fabonacci, prime nmbrs, reverse string **
+
 ## Student record management system
 
 ## Library management system
