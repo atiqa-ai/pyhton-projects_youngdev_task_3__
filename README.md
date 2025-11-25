@@ -1,4 +1,4 @@
-##📘 Internship Python Projects & Learning Summary
+## 📘 Internship Python Projects & Learning Summary
 
 Hi! I am Atiqa 👋
 I recently started my first remote internship at @YoungDev Interns and during this journey, I learned many new Python concepts and strengthened my programming fundamentals.
