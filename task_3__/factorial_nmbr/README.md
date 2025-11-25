@@ -19,3 +19,4 @@ This Python program calculates the **factorial** of a given number using a `for`
 ---
 
 ## 🧩 Example Output
+5! = 5 × 4 × 3 × 2 × 1 = 120
