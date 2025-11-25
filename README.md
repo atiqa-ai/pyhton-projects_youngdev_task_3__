@@ -5,36 +5,36 @@ I recently started my first remote internship at @YoungDev Interns and during th
 
 Here’s a brief summary of what I learned during my internship:
 
-🐍 Python Concepts Learned
+**🐍 Python Concepts Learned**
 
-Data Structures: Lists, Tuples, Dictionaries, Strings, Sets
+1. Data Structures: Lists, Tuples, Dictionaries, Strings, Sets
 
-Functions: Regular, Lambda, Recursive
+2. Functions: Regular, Lambda, Recursive
 
-Control Flow: Loops and Conditional Statements
+3. Control Flow: Loops and Conditional Statements
 
-Object-Oriented Programming (OOP): Classes & Objects
+4. Object-Oriented Programming (OOP): Classes & Objects
 
-OOP Pillars: Encapsulation, Abstraction, Polymorphism, Inheritance
+5. OOP Pillars: Encapsulation, Abstraction, Polymorphism, Inheritance
 
-File Handling: Reading, Writing, and Managing Files
+6. File Handling: Reading, Writing, and Managing Files
 
-💡 Real-World Programs Built
+**💡 Real-World Programs Built**
 
 These concepts helped me build practical Python programs such as:
 
-Fibonacci Sequence 🧮
+**Fibonacci Sequence 🧮**
 
-Prime Numbers Checker 🔢
+**Prime Numbers Checker 🔢**
 
-Reverse String Tool 🔄
+**Reverse String Tool 🔄**
 
-Student Record Management System 🎓
+**Student Record Management System 🎓
 
 Library Management System 📚
 
 File Handling Record System 🗂️
-
+**
 🚀 Key Takeaways
 
 Gained hands-on experience in building real-world applications
